@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Prathamesh-1208
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Git GitHub
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me prathameshlabdhe1208@gmail.com
 
 <!---
 Prathamesh-1208/Prathamesh-1208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
